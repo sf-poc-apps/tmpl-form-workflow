@@ -1,0 +1,10 @@
+{
+  "banner_refs": [
+    "app/templates/base.html"
+  ],
+  "allow": {
+    "subprocess": [
+      "tests/"
+    ]
+  }
+}
